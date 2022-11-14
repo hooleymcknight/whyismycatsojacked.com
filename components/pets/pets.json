@@ -1,0 +1,141 @@
+{
+  "Christopher": {
+    "birthday": "4/16/2013",
+    "image": "christopher.jpg",
+    "bio": "Christopher is an angry tank. We love him, but we do not encourage others to think of him as a friend.",
+    "list_data": {
+      "nicknames": ["クリス", "Chrimstopher"],
+      "species": "cat",
+      "color": "tabby",
+      "sex": "male",
+      "lives with": "Holly",
+      "D&D class": "fighter",
+      "D&D alignment": "lawful evil"
+    },
+    "images": [
+      "chair_sunlight.jpg",
+      "jacked.jpg",
+      "shoes.jpg",
+      "sleeping.jpg",
+      "vent.jpg",
+      "window_nap.jpg"
+    ]
+  },
+  "Booth": {
+    "birthday": "7/12/2016",
+    "image": "booth.jpg",
+    "bio": "Booth is our beloved, and he knows that, but we think that might be the only thing he knows. He doesn't even know where his food bowl is at.",
+    "list_data": {
+      "nicknames": ["Booth-Booth"],
+      "species": "cat",
+      "color": "orange & white",
+      "sex": "male",
+      "lives with": "Holly",
+      "D&D class": "wizard",
+      "D&D alignment": "neutral good"
+    },
+    "images": [
+      "bugs.jpg",
+      "james.jpg",
+      "keyboard_sleep.jpg",
+      "keyboard_sleep2.jpg"
+    ]
+  },
+  "Chasm": {
+    "birthday": "11/28/2011",
+    "image": "chasm.jpg",
+    "bio": "Chasm is the ultimate energy conserver. On any given day, you can find him laying somewhere. That's mostly all he does.",
+    "list_data": {
+      "nicknames": ["Kaz", "Kazumodo"],
+      "species": "dog",
+      "color": "black & brown",
+      "sex": "male",
+      "lives with": "Holly",
+      "D&D class": "druid",
+      "D&D alignment": "true neutral"
+    },
+    "images": [
+      "c_groom1.jpg",
+      "c_groom2.jpg",
+      "doorhole.jpg",
+      "laying_on_comforter.jpg"
+    ]
+  },
+  "Koda": {
+    "birthday": "12/28/2011",
+    "image": "koda.jpg",
+    "bio": "Koda has all of the energy. All of it. And he wants you to spend your energy on giving him attention.",
+    "list_data": {
+      "nicknames": ["Koda Bear"],
+      "species": "dog",
+      "color": "brown & white",
+      "sex": "male",
+      "lives with": "Holly",
+      "D&D class": "paladin",
+      "D&D alignment": "lawful good"
+    },
+    "images": [
+      "carpet_belly.jpg",
+      "cole_face.jpg",
+      "futon_sleep.jpg",
+      "k_groom1.jpg",
+      "k_groom2.jpg",
+      "roll_yard.jpg"
+    ]
+  },
+  "Atticus": {
+    "birthday": "1/1/2013",
+    "image": "atticus.jpg",
+    "bio": "Atticus has a distinct lack of understanding or respect for personal space, but he's usually very sweet.",
+    "list_data": {
+      "nicknames": ["Crusty", "Catticus"],
+      "species": "cat",
+      "color": "grey",
+      "sex": "male",
+      "lives with": "Matt",
+      "D&D class": "bard",
+      "D&D alignment": "chaotic neutral"
+    },
+    "images": [
+      "couchnap.jpg",
+      "cuddles.jpg"
+    ]
+  },
+  "Leia": {
+    "birthday": "10/31/2013",
+    "image": "leia.jpg",
+    "bio": "A quiet, sweet lady. She became the adoptive mother to Booth and Hammy. Her favorite person is Matt, and everyone else is chopped liver.",
+    "list_data": {
+      "nicknames": ["Lady Princess Leia"],
+      "species": "cat",
+      "color": "black & white",
+      "sex": "female",
+      "lives with": "Matt",
+      "D&D class": "cleric",
+      "D&D alignment": "neutral evil"
+    },
+    "images": [
+      "box.jpg",
+      "chair.jpg"
+    ]
+  },
+  "Hamilton": {
+    "birthday": "7/12/2016",
+    "image": "hammy.jpg",
+    "bio": "Hamilton has become a professional cryer. He knows when you're on a Zoom call and he will start crying at exactly that moment.",
+    "list_data": {
+      "nicknames": ["Hammy"],
+      "species": "cat",
+      "color": "orange & white",
+      "sex": "male",
+      "lives with": "Matt",
+      "D&D class": "monk",
+      "D&D alignment": "chaotic needy"
+    },
+    "images": [
+      "bed.jpg",
+      "high_stretch.jpg",
+      "lap_sit.jpg"
+    ]
+  }
+}

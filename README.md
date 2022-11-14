@@ -7,3 +7,4 @@ Things I'd like to add:
 * image carousel on the pet pages...maybe, I'm still deciding how I feel about carousels in general
 * a forum for people to submit images of their own cats
 * a redesign more focused on the actual tank cat, Christopher. Right now the site is an even spread of all the pets
+* a better homepage that explains the app/site. This one just jumps you right into the pets hub
